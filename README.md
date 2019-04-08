@@ -17,7 +17,7 @@ The framework is a serenity-cucumber based BDD framework written in Java and has
 ## Executing the test
 
 To run the demo project, clone it and use below maven command from the command line in the project directory.
-```python
+```bash
 mvn clean verify serenity:aggregate
 ```
 
@@ -32,7 +32,7 @@ mvn clean verify serenity:aggregate
 
 ## Report
 The final report will be generated on the following path
-```python
+```bash
 \\serenitycucumberdemo\target\site\serenity\index.html
 ```
 
