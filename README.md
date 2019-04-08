@@ -30,3 +30,12 @@ mvn clean verify serenity:aggregate
 6. Can be easily made to run on docker containers
 7. serenity.properties file allows user to input various important parameters.
 
+##Report
+The final report will be generated on the below path
+\\serenitycucumberdemo\target\site\serenity\index.html
+
+Below is screenshot of the report
+
+![image](https://user-images.githubusercontent.com/28183478/55724909-be1d0580-5a4f-11e9-8b88-b3f5c2beb0ff.png)
+
+
