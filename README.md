@@ -31,8 +31,10 @@ mvn clean verify serenity:aggregate
 7. serenity.properties file allows user to input various important parameters.
 
 ## Report
-The final report will be generated on the below path
+The final report will be generated on the following path
+```python
 \\serenitycucumberdemo\target\site\serenity\index.html
+```
 
 Below is few screenshots of the report
 
